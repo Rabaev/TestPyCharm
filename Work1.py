@@ -9,5 +9,5 @@ d = OrderedDict([
 
 print(d.keys())
 print(d.values())
-print('Hello')
+
 # Hello World
